@@ -1,4 +1,4 @@
-SetEnv LARAVEL_ENV localno
+SetEnv LARAVEL_ENV local
 
 
 <IfModule mod_rewrite.c>
